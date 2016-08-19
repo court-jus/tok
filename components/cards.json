@@ -1,0 +1,112 @@
+{
+  "version": "0.0.5",
+  "description": null,
+  "pageFormat": "A4",
+  "deckBreak": true,
+  "rows": 3,
+  "cols": 3,
+  "cardWidth": 2.5,
+  "cardHeight": 3.5,
+  "hMargin": 0,
+  "vMargin": 0,
+  "imageWidth": 2.5,
+  "imageHeight": 3.5,
+  "imageHShift": 0,
+  "imageVShift": 0,
+  "backgroundColor": {
+    "front": "transparent",
+    "back": "transparent"
+  },
+  "decks": [
+    {
+      "cards": [
+        {
+          "imageUrl": "https://dl.dropboxusercontent.com/u/1306518/Tempest/tempest_cards_b01.png"
+        },
+        {
+          "imageUrl": "https://dl.dropboxusercontent.com/u/1306518/Tempest/tempest_cards_b02.png"
+        },
+        {
+          "imageUrl": "https://dl.dropboxusercontent.com/u/1306518/Tempest/tempest_cards_b03.png"
+        },
+        {
+          "imageUrl": "https://dl.dropboxusercontent.com/u/1306518/Tempest/tempest_cards_b04.png"
+        },
+        {
+          "imageUrl": "https://dl.dropboxusercontent.com/u/1306518/Tempest/tempest_cards_b05.png"
+        },
+        {
+          "imageUrl": "https://dl.dropboxusercontent.com/u/1306518/Tempest/tempest_cards_b06.png"
+        },
+        {
+          "imageUrl": "https://dl.dropboxusercontent.com/u/1306518/Tempest/tempest_cards_b07.png"
+        },
+        {
+          "imageUrl": "https://dl.dropboxusercontent.com/u/1306518/Tempest/tempest_cards_b08.png"
+        },
+        {
+          "imageUrl": "https://dl.dropboxusercontent.com/u/1306518/Tempest/tempest_cards_b09.png"
+        },
+        {
+          "imageUrl": "https://dl.dropboxusercontent.com/u/1306518/Tempest/tempest_cards_b10.png"
+        },
+        {
+          "imageUrl": "https://dl.dropboxusercontent.com/u/1306518/Tempest/tempest_cards_b11.png"
+        },
+        {
+          "imageUrl": "https://dl.dropboxusercontent.com/u/1306518/Tempest/tempest_cards_b12.png"
+        },
+        {
+          "imageUrl": "https://dl.dropboxusercontent.com/u/1306518/Tempest/tempest_cards_b13.png"
+        },
+        {
+          "imageUrl": "https://dl.dropboxusercontent.com/u/1306518/Tempest/tempest_cards_b14.png"
+        },
+        {
+          "imageUrl": "https://dl.dropboxusercontent.com/u/1306518/Tempest/tempest_cards_b15.png"
+        },
+        {
+          "imageUrl": "https://dl.dropboxusercontent.com/u/1306518/Tempest/tempest_cards_b16.png"
+        },
+        {
+          "imageUrl": "https://dl.dropboxusercontent.com/u/1306518/Tempest/tempest_cards_b17.png"
+        },
+        {
+          "imageUrl": "https://dl.dropboxusercontent.com/u/1306518/Tempest/tempest_cards_b18.png"
+        },
+        {
+          "imageUrl": "https://dl.dropboxusercontent.com/u/1306518/Tempest/tempest_cards_b19.png"
+        },
+        {
+          "imageUrl": "https://dl.dropboxusercontent.com/u/1306518/Tempest/tempest_cards_b20.png"
+        },
+        {
+          "imageUrl": "https://dl.dropboxusercontent.com/u/1306518/Tempest/tempest_cards_b21.png"
+        },
+        {
+          "imageUrl": "https://dl.dropboxusercontent.com/u/1306518/Tempest/tempest_cards_b22.png"
+        },
+        {
+          "imageUrl": "https://dl.dropboxusercontent.com/u/1306518/Tempest/tempest_cards_b23.png"
+        },
+        {
+          "imageUrl": "https://dl.dropboxusercontent.com/u/1306518/Tempest/tempest_cards_b24.png"
+        }
+      ],
+      "commoncardCount": 1,
+      "commonCardback": "https://dl.dropboxusercontent.com/u/1306518/Tempest/back.png",
+      "name": "Barbarians"
+    }
+  ],
+  "cropmarks": {
+    "showOnFront": true,
+    "showOnBack": false,
+    "thickness": 0.02,
+    "margin": 0.01
+  },
+  "metaData": {
+    "gamename": "Tempest",
+    "author": "Todd Sanders and Ghislain Lévêque",
+    "description": "Todd designed those cards and is running a sort of \"contest\" where anyone can design a game using the cards. Have a look <a href=\"https://boardgamegeek.com/article/23475506#23475506\">here</a>."
+  }
+}
